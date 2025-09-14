@@ -6,9 +6,16 @@ This project is a deep dive into the capabilities of AI-driven development. It w
 
 ## Showcase
 
-![ChartWeaver AI Demo](https://raw.githubusercontent.com/user-attachments/assets/1990c6d5-6f16-43b4-a2b2-671c6f93fc4d/showcase.gif)
+### 🎥 Demo Video
+[![ChartWeaver AI Demo](chart-weaver-preview.png)](https://www.youtube.com/watch?v=WrqVTQCNEec)
 
-> **Note:** For the best result on your GitHub, you should convert your video to a high-quality GIF and replace the placeholder link above.
+*Click the image above to watch the full demo video*
+
+### 📊 Application Preview
+<div align="center">
+  <img src="chart-weaver-preview.png" alt="ChartWeaver AI Interface" width="100%">
+  <p><em>ChartWeaver AI in action - transforming Polish economic data into beautiful, interactive visualizations</em></p>
+</div>
 
 ## About The Project
 
