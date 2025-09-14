@@ -4,18 +4,14 @@ Transform your data storytelling with ChartWeaverAI — where artificial intelli
 
 This project is a deep dive into the capabilities of AI-driven development. It was conceived as a personal challenge to see how far I could push modern developer tools to build a real, functional product, with AI acting as the primary developer under my guidance.
 
+> **💼 Code Availability**: While this repository serves as a showcase of the project's capabilities and development approach, the complete codebase is available for review during interviews or private discussions. Please feel free to reach out if you'd like to explore the technical implementation in detail.
+
 ## Showcase
 
 ### 🎥 Demo Video
 [![ChartWeaver AI Demo](chart-weaver-preview.png)](https://www.youtube.com/watch?v=WrqVTQCNEec)
 
 *Click the image above to watch the full demo video*
-
-### 📊 Application Preview
-<div align="center">
-  <img src="chart-weaver-preview.png" alt="ChartWeaver AI Interface" width="100%">
-  <p><em>ChartWeaver AI in action - transforming Polish economic data into beautiful, interactive visualizations</em></p>
-</div>
 
 ## About The Project
 
@@ -96,3 +92,4 @@ This project solidified my belief that the role of the developer is evolving. Th
 - Using observability tools to ensure AI systems are reliable and performant
 
 By embracing these tools, I was able to build ChartWeaverAI far more quickly and efficiently than would have been possible with traditional methods alone. It was a fantastic learning experience in prompt engineering, AI systems design, and the future of building software.
+
