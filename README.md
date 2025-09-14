@@ -5,6 +5,8 @@ Transform your data storytelling with ChartWeaverAI — where artificial intelli
 This project is a deep dive into the capabilities of AI-driven development. It was conceived as a personal challenge to see how far I could push modern developer tools to build a real, functional product, with AI acting as the primary developer under my guidance.
 
 > **💼 Code Availability**: While this repository serves as a showcase of the project's capabilities and development approach, the complete codebase is available for review during interviews or private discussions. Please feel free to reach out if you'd like to explore the technical implementation in detail.
+>
+> **🚧 Development Status**: This application is currently in development and not yet fully production-ready. There are some known bugs and areas where the UI needs refinement (such as the initial landing page). However, the core functionality is already providing significant value, successfully transforming complex data into beautiful, actionable visualizations.
 
 ## Showcase
 
